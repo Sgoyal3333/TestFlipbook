@@ -1,0 +1,18 @@
+{
+"location": "Paris",
+ "room": "2",
+"userlogins": [
+ {
+  "username": "abc@gmail.com",
+  "password": "Test@123"
+ },
+ {
+  "username": "xyz@gmail.com",
+  "password": "Test@12"
+ },
+ {
+  "username": "pqr@gmail.com",
+  "password": "Test@123"
+ }
+]
+}

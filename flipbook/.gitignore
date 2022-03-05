@@ -1,0 +1,12 @@
+/target/
+/Logs/
+/Reports/
+/test-output/
+/Screenshots/
+/surefire/
+/MAS.vbs
+/.DS_Store
+/testngGRID.xml
+/hs_err_pid3996.log
+/testng.xml
+/hs_err_pid27408.log
